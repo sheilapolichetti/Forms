@@ -1,0 +1,17 @@
+.row {
+    color: #FFFF;
+    background-color: #BE0909;
+    padding: 200px;
+    display:flex;
+    flex-flow: column wrap;
+    justify-content: flex-start;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.yellow {
+    background-color: #FFB039;
+    padding: 150px;
+    display: flex;
+    justify-content: flex-end;
+}
